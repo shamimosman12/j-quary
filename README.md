@@ -1,2 +1,2 @@
 # j-quary
-example
+ https://shamimosman12.github.io/j-quary/
